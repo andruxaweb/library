@@ -1,0 +1,18 @@
+.All
+{
+	width:100%
+}
+.Books
+{
+	width:50%;
+	margin: 0 auto;
+}
+.Books table
+{
+	margin-left:17%;
+}
+.Books td
+{
+	width:100px;
+	border:1px solid black;
+}

@@ -1,0 +1,109 @@
+body
+{
+	margin:0;
+}
+.all
+{
+	position:relative;
+}
+.header
+{
+	background-color:#2e3844;
+	margin:50px 0px;
+	padding;0px;
+	overflow: hidden;
+}
+.table1	
+{	
+	float:left;
+	margin-left: 80px;
+}
+.picture_header
+{
+	margin-top:4px;
+	margin-left:6.5%;
+	float:left;
+}
+.table2
+{
+	margin-right: 120px;
+	float:right;
+}
+.table1 ul
+{
+	margin-top:25px;
+}
+.table2 ul
+{
+	margin-top:25px;
+}
+.table1 ul li
+{
+	
+	display: inline;
+	list-style-type: none;
+}
+.table2 ul li
+{
+	display: inline;
+	list-style-type: none;
+}
+.table1 ul li a
+{
+	color:white;
+	margin-left:80px;
+	text-decoration:none;
+}
+.table1 ul li a:hover
+{
+	border-bottom:groove;
+	border-bottom-color:orange;
+}
+.table2 ul li a
+{
+	color:white;
+	margin-right:80px;
+	text-decoration:none;
+}
+.table2 ul li a:hover
+{
+	border-bottom:groove;
+	border-bottom-color:orange;
+}
+.signup
+{
+	width:400px;
+	border:solid 1px black;
+	display: inline-block;	
+	text-align: center;
+	position:absolute;
+	left: 35%;
+	padding-bottom:20px;
+}
+.signup h3
+{
+	
+}
+.button_reg
+{
+	background-color: #ff3c1f;
+    color: white;
+	border-radius: 25px;
+}
+.button_reg:hover
+{
+	background-color: white !important;
+    color: #ff3c1f !important;
+	border-radius: 25px;
+}
+.button_reg a
+{
+	color: white !important;
+	text-decoration:none !important;
+}
+.button_reg a:hover 
+{
+	color:#ff3c1f !important;
+	text-decoration:none !important;
+}
+	

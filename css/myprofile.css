@@ -1,0 +1,17 @@
+.profile
+{
+	width:100%;
+}
+.profile_picture
+{
+	display:inline-block;
+	width:19%;
+}
+.profile_description
+{
+	display:inline-block;
+	width:30%;
+	top:0;
+	height: 248px;
+    vertical-align: middle;
+}
